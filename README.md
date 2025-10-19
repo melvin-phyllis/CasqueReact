@@ -1,3 +1,7 @@
+# SITE
+
+https://casquereact.netlify.app/
+
 # Fiche Produit React
 
 Ce mini-projet met en scène une fiche produit de casque audio construite avec React et Vite, en s’appuyant sur react-bootstrap pour la présentation. L’objectif est de démontrer comment composer une interface à partir de composants unitaires reliés à un même jeu de données.
