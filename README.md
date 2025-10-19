@@ -8,4 +8,4 @@ Ce mini-projet met en scène une fiche produit de casque audio construite avec R
 - **Expérience utilisateur** : la page principale (`App.jsx`) accueille l’utilisateur, propose d’enregistrer son prénom et salue dynamiquement la personne dès que l’information est disponible. L’image du casque est également affichée pour illustrer le produit.
 - **Style rapide** : Bootstrap assure la base visuelle, complétée par un léger style personnalisé pour positionner la carte.
 
-Ce projet illustre une utilisation simple de React pour organiser la logique métier et la présentation, tout en restant assez flexible pour évoluer vers de nouvelles fonctionnalités (autres produits, gestion d’état plus poussée, etc.).
+Ce projet illustre une utilisation simple de React pour organiser la logique métier et la présentation
